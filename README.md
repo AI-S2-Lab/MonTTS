@@ -1,5 +1,16 @@
-# MonTTS: A Real-time and High-fidelity Mongolian TTS Model with Complete Non-autoregressive Mechanism (MonTTS：完全非自回归的实时、高保真蒙古语语音合成模型)
+# MonTTS: A Real-time and High-fidelity Mongolian TTS Model with Pure Non-autoregressive Mechanism (MonTTS：完全非自回归的实时、高保真蒙古语语音合成模型)
  
+ 
+## Introduction
+This is an implementation of the following paper.
+> [MonTTS: A Real-time and High-fidelity Mongolian TTS Model with Pure Non-autoregressive Mechanism.](http://jcip.cipsc.org.cn/CN/abstract/abstract3357.shtml)
+> Journal of Chinese Information Processing (中文信息学报). 2022
+
+[Rui Liu](https://ttslr.github.io/), Shiyin Kang, Jindong Li, Feilong Bao, Guanglai Gao.
+ 
+
+[![Published](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](http://jcip.cipsc.org.cn/CN/abstract/abstract3357.shtml)
+
 
 ## 0) Environment Preparation
 
